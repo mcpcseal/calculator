@@ -1,6 +1,4 @@
-import { use, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState } from 'react'
 import './App.css'
 let n1_str :string = "";
 let n2_str :string = "";
