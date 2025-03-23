@@ -34,6 +34,11 @@ function App() {
               {NumButton(2)}
               {NumButton(3)}
             </div>
+            <div className='row'>
+              <div className='col'></div>
+              {NumButton(0)}
+              <div className='col'></div>
+            </div>
           </div>
 
           <div className='col'>
